@@ -90,7 +90,7 @@ pip install -e  .
 
 #para descargar de github copia el siguiente enlace
 
-https://github.com/Andresmejia11/pec4_JerleyMejia.git
+https://github.com/Andresmejia11/Pec4-Jerley-Andres-Mejia.git
 
 
 
